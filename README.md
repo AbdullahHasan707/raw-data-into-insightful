@@ -1,1 +1,2 @@
-# raw-data-into-insightful
+# raw-data-into-organized
+I transformed raw, unstructured Excel data into a clean and well-organized dataset. By standardizing headers, adding missing fields (like Country), applying proper formatting (currencies, decimals, alignment), and structuring data into tables, I made the dataset easier to read, analyze, and use for reporting. This process highlights my ability to convert messy data into meaningful, professional, and presentation-ready reports in Excel.
